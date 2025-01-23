@@ -1,4 +1,4 @@
-// @BABYFUMO
+// @FUMOsan
 // *
 // * 主要是因為很喜歡瑜伽課，然後想幫忙老師，所以弄個side project 
 // * Program Name: LineBot with Google apps script //
